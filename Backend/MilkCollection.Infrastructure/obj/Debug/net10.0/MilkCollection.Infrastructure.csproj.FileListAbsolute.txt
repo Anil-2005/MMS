@@ -1,0 +1,15 @@
+D:\MMS\Backend\MilkCollection.Infrastructure\bin\Debug\net10.0\MilkCollection.Infrastructure.deps.json
+D:\MMS\Backend\MilkCollection.Infrastructure\bin\Debug\net10.0\MilkCollection.Infrastructure.dll
+D:\MMS\Backend\MilkCollection.Infrastructure\bin\Debug\net10.0\MilkCollection.Infrastructure.pdb
+D:\MMS\Backend\MilkCollection.Infrastructure\bin\Debug\net10.0\MilkCollection.Core.dll
+D:\MMS\Backend\MilkCollection.Infrastructure\bin\Debug\net10.0\MilkCollection.Core.pdb
+D:\MMS\Backend\MilkCollection.Infrastructure\obj\Debug\net10.0\MilkCollection.Infrastructure.csproj.AssemblyReference.cache
+D:\MMS\Backend\MilkCollection.Infrastructure\obj\Debug\net10.0\MilkCollection.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MMS\Backend\MilkCollection.Infrastructure\obj\Debug\net10.0\MilkCollection.Infrastructure.AssemblyInfoInputs.cache
+D:\MMS\Backend\MilkCollection.Infrastructure\obj\Debug\net10.0\MilkCollection.Infrastructure.AssemblyInfo.cs
+D:\MMS\Backend\MilkCollection.Infrastructure\obj\Debug\net10.0\MilkCollection.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MMS\Backend\MilkCollection.Infrastructure\obj\Debug\net10.0\MilkColl.7F3CC109.Up2Date
+D:\MMS\Backend\MilkCollection.Infrastructure\obj\Debug\net10.0\MilkCollection.Infrastructure.dll
+D:\MMS\Backend\MilkCollection.Infrastructure\obj\Debug\net10.0\refint\MilkCollection.Infrastructure.dll
+D:\MMS\Backend\MilkCollection.Infrastructure\obj\Debug\net10.0\MilkCollection.Infrastructure.pdb
+D:\MMS\Backend\MilkCollection.Infrastructure\obj\Debug\net10.0\ref\MilkCollection.Infrastructure.dll

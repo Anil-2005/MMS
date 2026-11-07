@@ -1,0 +1,11 @@
+D:\MMS\Backend\MilkCollection.Core\bin\Debug\net10.0\MilkCollection.Core.deps.json
+D:\MMS\Backend\MilkCollection.Core\bin\Debug\net10.0\MilkCollection.Core.dll
+D:\MMS\Backend\MilkCollection.Core\bin\Debug\net10.0\MilkCollection.Core.pdb
+D:\MMS\Backend\MilkCollection.Core\obj\Debug\net10.0\MilkCollection.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MMS\Backend\MilkCollection.Core\obj\Debug\net10.0\MilkCollection.Core.AssemblyInfoInputs.cache
+D:\MMS\Backend\MilkCollection.Core\obj\Debug\net10.0\MilkCollection.Core.AssemblyInfo.cs
+D:\MMS\Backend\MilkCollection.Core\obj\Debug\net10.0\MilkCollection.Core.csproj.CoreCompileInputs.cache
+D:\MMS\Backend\MilkCollection.Core\obj\Debug\net10.0\MilkCollection.Core.dll
+D:\MMS\Backend\MilkCollection.Core\obj\Debug\net10.0\refint\MilkCollection.Core.dll
+D:\MMS\Backend\MilkCollection.Core\obj\Debug\net10.0\MilkCollection.Core.pdb
+D:\MMS\Backend\MilkCollection.Core\obj\Debug\net10.0\ref\MilkCollection.Core.dll

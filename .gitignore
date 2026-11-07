@@ -1,0 +1,13 @@
+# Angular cache and dependencies
+**/.angular/
+**/node_modules/
+**/dist/
+**/coverage/
+
+# .NET generated files
+**/bin/
+**/obj/
+**/.vs/
+
+# Logs
+*.log
